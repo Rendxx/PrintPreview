@@ -21,6 +21,8 @@
     <Content Include="test\image1.png" />
     <Content Include="test\image2.png" />
     <Content Include="test\image3.png" />
+    <Content Include="test\sample.js" />
+    <Content Include="test\test.css" />
     <Content Include="test\sample.css" />
     <Content Include="test\sample.html" />
   </ItemGroup>

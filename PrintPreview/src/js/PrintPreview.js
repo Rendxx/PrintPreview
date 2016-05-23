@@ -90,6 +90,7 @@ API:
         ifrm.style.padding = "0";
         ifrm.style.border = "0";
         ifrm.style.overflow = "auto";
+        ifrm.style.zIndex = "100";
         return ifrm;
     };
 
