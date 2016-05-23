@@ -1,0 +1,35 @@
+{
+  "name": "PrintPreview",
+  "description": "Create a preview box with input html/css. Print it by calling browser's print function.",
+  "main": [
+    "js/PrintPreview.js"
+  ],
+  "dependencies": {
+    "jquery": "1.11.2"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "PrintPreview",
+    "printPreview",
+    "printpreview",
+    "print preview",
+    "print-preview",
+    "Print",
+    "print"
+  ],
+  "authors": [
+    "Dongxu Ren <rendxx@gmail.com> http://www.rendxx.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!js/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rendxx/PrintPreview.git"
+  },
+  "private": false
+}
