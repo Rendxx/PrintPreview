@@ -33,18 +33,6 @@
         background-color: #ccc;
     }
 
-        .imgPack ._img._img1 {
-            background-image: url('image1.png');
-        }
-
-        .imgPack ._img._img2 {
-            background-image: url('image2.png');
-        }
-
-        .imgPack ._img._img3 {
-            background-image: url('image3.png');
-        }
-
     .imgPack ._text {
         width: auto;
         height: 30px;
