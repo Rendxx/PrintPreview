@@ -96,3 +96,18 @@ body {
         .btn_print._actived:hover {
             background-color: #1a7aff;
         }
+
+        .instruction{
+            position:absolute;
+            top:50%;
+            left:50%;
+            margin-top:-260px;
+            margin-left:-250px;
+            width:500px;
+            height:40px;
+            line-height:40px;
+            font-family:Calibri;
+            font-size:14px;
+            color:#999;
+            text-align:center;
+        }
